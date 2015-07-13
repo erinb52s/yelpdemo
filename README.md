@@ -1,2 +1,0 @@
-# yelpdemo
-yelpdemo course
